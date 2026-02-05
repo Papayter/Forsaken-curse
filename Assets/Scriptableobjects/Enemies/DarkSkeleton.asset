@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7002b3a8fc469bb1a28d25d3499b58, type: 3}
+  m_Name: DarkSkeleton
+  m_EditorClassIdentifier: 
+  enemyName: DarkSkeleton
+  enemyType: 0
+  health: 350
+  damage: 65
+  attackRange: 2
+  enemyModel: {fileID: 5571767654006984992, guid: 094d83a4224dab847a057a3463a8f8ba,
+    type: 3}
+  takeDamageSound: {fileID: 8300000, guid: 060de98948991f94fb147561ab3c5586, type: 3}

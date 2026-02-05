@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f7173109327a846a197dbedb86328a, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: bf8991f4a71156b47b4044bfb036304b, type: 3}
+  itemName: Staff
+  itemDescription: The most basic staff that was given to students among  the academy
+  itemModel: {fileID: 6495408323605790396, guid: 161a748600a336a499c1a4ab03c7cf30,
+    type: 3}
+  itemType: 1
+  damageAmount: 30
+  blockingAmount: 0
+  staminaCost: 10
+  manaCost: 30
+  projectile: {fileID: 2913871800487217572, guid: 8cddff5504e99e44880899c362afd6db,
+    type: 3}
+  weaponModel: {fileID: 5140641686257133833, guid: ccd5b0d5b72801c4c9773a00dc882751,
+    type: 3}
+  weaponModelLeft: {fileID: 5140641686257133833, guid: a7ae839a83e15d448b67aaeebf64b9cf,
+    type: 3}
+  spellIcon: {fileID: 21300000, guid: ac0dda4de33ab0a4cbda4e19b1a5d58d, type: 3}
+  staffLevel: 1
+  animationRight: MagickR
+  animationLeft: MagiclL
+  weaponType: 2

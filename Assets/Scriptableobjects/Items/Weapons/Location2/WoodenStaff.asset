@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f7173109327a846a197dbedb86328a, type: 3}
+  m_Name: WoodenStaff
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: c0ba7b923f30b9d4fa6d9e9f8fdf8eb3, type: 3}
+  itemName: Wooden Staff
+  itemDescription: Staff covered with ancient magic of the woods
+  itemModel: {fileID: 4148307443161885210, guid: 72a2d9fa0b87de34e96d38a685f6f8fb,
+    type: 3}
+  itemType: 1
+  damageAmount: 35
+  blockingAmount: 0
+  staminaCost: 0
+  manaCost: 60
+  projectile: {fileID: 4493982328359744254, guid: 8e21654b9a3f0144a94061829c72f9b5,
+    type: 3}
+  weaponModel: {fileID: 9163815715864568567, guid: 644e9ceacdd087b47b4a04659e1644f1,
+    type: 3}
+  weaponModelLeft: {fileID: 3255123087808297504, guid: 2dd440880beba7d40861f72327dcbf83,
+    type: 3}
+  spellIcon: {fileID: 21300000, guid: 42a3c0323f81e154b9404a5c4ca785e9, type: 3}
+  staffLevel: 2
+  animationRight: MagickR
+  animationLeft: MagiclL
+  weaponType: 2

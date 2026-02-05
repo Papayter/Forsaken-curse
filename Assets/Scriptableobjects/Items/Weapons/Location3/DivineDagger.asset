@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f7173109327a846a197dbedb86328a, type: 3}
+  m_Name: DivineDagger
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 1ff47b746620d15429d6b80b4fac3272, type: 3}
+  itemName: Divine Dagger
+  itemDescription: Elegant magical dagger
+  itemModel: {fileID: 7571825495484953788, guid: 806036cd229d6c9449b6acfcbe071030,
+    type: 3}
+  itemType: 1
+  damageAmount: 30
+  blockingAmount: 0
+  staminaCost: 6
+  manaCost: 0
+  projectile: {fileID: 0}
+  weaponModel: {fileID: 8351637909517798022, guid: db328fc54871d0145abbe144823eb418,
+    type: 3}
+  weaponModelLeft: {fileID: 8351637909517798022, guid: db328fc54871d0145abbe144823eb418,
+    type: 3}
+  spellIcon: {fileID: 0}
+  staffLevel: 0
+  animationRight: daggerR
+  animationLeft: daggerL
+  weaponType: 3

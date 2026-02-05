@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f7173109327a846a197dbedb86328a, type: 3}
+  m_Name: BigSword
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: d5d7f81a44530ef4bb25983916543d85, type: 3}
+  itemName: Big Sword
+  itemDescription: the most basic sword, that was used in king's army
+  itemModel: {fileID: 7976881489732940430, guid: badbdf122537c8b42bfc8838f3d8ac47,
+    type: 3}
+  itemType: 1
+  damageAmount: 15
+  blockingAmount: 0
+  staminaCost: 20
+  manaCost: 0
+  projectile: {fileID: 0}
+  weaponModel: {fileID: 5590332988501274690, guid: f0d19f834a93aa348a0025f0c9a84bfd,
+    type: 3}
+  weaponModelLeft: {fileID: 5590332988501274690, guid: f0d19f834a93aa348a0025f0c9a84bfd,
+    type: 3}
+  spellIcon: {fileID: 0}
+  staffLevel: 0
+  animationRight: MainHandAttack
+  animationLeft: OffHandAttack
+  weaponType: 0

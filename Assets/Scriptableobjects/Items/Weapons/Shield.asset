@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f7173109327a846a197dbedb86328a, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 65ceeea8e514f7c4e9b32d419d963195, type: 3}
+  itemName: Shield
+  itemDescription: Metal shield
+  itemModel: {fileID: 8362486624333591797, guid: 312ea90b85c3b2247b06ce03102f0988,
+    type: 3}
+  itemType: 1
+  damageAmount: 0
+  blockingAmount: 0.55
+  staminaCost: 0
+  manaCost: 0
+  projectile: {fileID: 0}
+  weaponModel: {fileID: 7800184119979065744, guid: 50447458ef9c8cc4887d5707e16ea233,
+    type: 3}
+  weaponModelLeft: {fileID: 2002139378293282185, guid: 0606450abaa852541977a79e34d60c45,
+    type: 3}
+  spellIcon: {fileID: 0}
+  staffLevel: 0
+  animationRight: isBlockingRight
+  animationLeft: isBlockingLeft
+  weaponType: 1

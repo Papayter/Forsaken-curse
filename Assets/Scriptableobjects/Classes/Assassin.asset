@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1994733afff3fc4468719b2d87be8c75, type: 3}
+  m_Name: Assassin
+  m_EditorClassIdentifier: 
+  strength: 5
+  intelligence: 5
+  agility: 10
+  strengthIncrease: 0.1
+  intelligenceIncrease: 0.1
+  agilityIncrease: 0.13
+  hp: 100
+  stamina: 100
+  mana: 75
+  startWeapon: {fileID: 1425605027921510312, guid: 845cbc931800d2245ad39524c39465d2,
+    type: 3}

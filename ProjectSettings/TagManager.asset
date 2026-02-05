@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Enemy
+  - EnemyDamage
+  - MainSlot
+  - WeaponSlot
+  - ArmorSlot
+  - DamageZone
+  - DeathZone
+  - Collide
+  - SkeletonParticle
+  - PlayerParticle
+  - Door
+  - Key
+  - Arrow
+  - Canvas
+  - Button
+  - RedPotion
+  - Item
+  - Potion
+  - InteractWindow
+  - IsGround
+  - BossDamage
+  - BossRoom
+  - Shop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - LockUI
+  - WeaponItem
+  - Door
+  - Ground
+  - BossFireball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f7173109327a846a197dbedb86328a, type: 3}
+  m_Name: DivineStaff
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 6cf6d9483033480418c34328f688b6bb, type: 3}
+  itemName: Divine Staff
+  itemDescription: A staff once used by the main sorcerer of great lands academy
+  itemModel: {fileID: 2264670865485315436, guid: 85d673a1ab2874f4d9e3a7e3e7fd5cca,
+    type: 3}
+  itemType: 1
+  damageAmount: 50
+  blockingAmount: 0
+  staminaCost: 0
+  manaCost: 100
+  projectile: {fileID: 4345003588453435151, guid: 1e28f7ae198842f4899a6978853b7143,
+    type: 3}
+  weaponModel: {fileID: 1552763380041990623, guid: abba22e236429fc4d9881cbcffb02002,
+    type: 3}
+  weaponModelLeft: {fileID: 1195852161452398129, guid: 99616a3a95795964bbf3859f7cff6814,
+    type: 3}
+  spellIcon: {fileID: 21300000, guid: f8f5b3faa8d723e4e974db56750d0a45, type: 3}
+  staffLevel: 3
+  animationRight: MagickR
+  animationLeft: MagiclL
+  weaponType: 2
